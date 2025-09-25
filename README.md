@@ -1,7 +1,5 @@
 # 🩺 Diabetes Prediction using Machine Learning
 
-![Diabetes Prediction Banner](https://your-image-url.com/banner.jpg)
-
 ## 📊 Overview
 
 This project leverages machine learning to predict the likelihood of diabetes in individuals based on various health parameters. The model achieves high accuracy by employing advanced techniques such as SMOTE for handling class imbalance and utilizing a robust pipeline for preprocessing and prediction.
@@ -56,3 +54,4 @@ This project leverages machine learning to predict the likelihood of diabetes in
  cd Diabetes-prediction-
 
 streamlit run Deployment_Code.py
+<img width="1920" height="1020" alt="Screenshot 2025-09-25 143643" src="https://github.com/user-attachments/assets/5fbfc2fa-dbe5-4993-8124-25da81c294f4" />
