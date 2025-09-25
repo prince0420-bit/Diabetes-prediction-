@@ -33,12 +33,10 @@ This project leverages machine learning to predict the likelihood of diabetes in
 ├── data/
 │   └── diabetes_prediction_dataset.csv
 ├── Deployment/
-│   ├── Deployment_Code.py
+│   ├── model.py
 │   └── diabetes_prediction_pipeline_V2.pkl
 ├── Notebook/
-│   ├── Diabetes_prediction_model_smote.ipynb
-│   ├── Diabetes_prediction_model.ipynb
-│   ├── understanding_data.ipynb
+│   ├── Diabetes_prediction.ipynb
 │   └── diabetes_prediction_pipeline_V2.pkl
 └── README.md
 
