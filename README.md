@@ -29,16 +29,17 @@ This project leverages machine learning to predict the likelihood of diabetes in
   - Deployment-ready pipeline using `joblib`.
 - **File Structure**:
 
+.
 ├── data/
-│ └── diabetes_prediction_dataset.csv
+│   └── diabetes_prediction_dataset.csv
 ├── Deployment/
-│ ├── Deployment_Code.py
-│ └── diabetes_prediction_pipeline_V2.pkl
+│   ├── Deployment_Code.py
+│   └── diabetes_prediction_pipeline_V2.pkl
 ├── Notebook/
-│ ├── Diabetes_prediction_model_smote.ipynb
-│ ├── Diabetes_prediction_model.ipynb
-│ ├── understanding_data.ipynb
-│ └── diabetes_prediction_pipeline_V2.pkl
+│   ├── Diabetes_prediction_model_smote.ipynb
+│   ├── Diabetes_prediction_model.ipynb
+│   ├── understanding_data.ipynb
+│   └── diabetes_prediction_pipeline_V2.pkl
 └── README.md
 
 
