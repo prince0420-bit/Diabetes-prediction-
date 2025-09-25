@@ -54,4 +54,5 @@ This project leverages machine learning to predict the likelihood of diabetes in
  cd Diabetes-prediction-
 
 streamlit run Deployment_Code.py
-<img width="1920" height="1020" alt="Screenshot 2025-09-25 143643" src="https://github.com/user-attachments/assets/5fbfc2fa-dbe5-4993-8124-25da81c294f4" />
+<img width="1920" height="1020" alt="Screenshot 2025-09-25 143643" src="https://github.com/user-attachments/assets/56366350-6d4a-4307-8df5-91d628c7bb35" />
+
